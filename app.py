@@ -73,7 +73,7 @@ def single_book(id):
             "language": language,
             "title": title,
         }
-        conn.execute(sql, (author, language, title, id))
+        conn.execute(sql, (title, author, language,  id))
         conn.commit()
         return jsonify(updated_book)
 
@@ -81,7 +81,7 @@ def single_book(id):
         sql = """ DELETE FROM book WHERE id=? """
         conn.execute(sql, (id,))
         conn.commit()
-        return "The book with id: {} has been ddeleted.".format(id), 200
+        return "The book with id: {} has been deleted.".format(id), 200
 
 
 if __name__ == "__main__":

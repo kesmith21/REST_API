@@ -690,3 +690,57 @@ iles in C:\inetpub\wwwroot\SQLFlaskCrudApp\ are changed: .*((\.py)|(\.config))$
 2020-11-14 15:11:58.337350: wfastcgi.py 3.0.0 initialized
 2020-11-14 15:31:57.257808: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
 2020-11-14 15:31:57.275169: wfastcgi.py 3.0.0 initialized
+2020-11-16 08:05:42.499444: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-16 08:05:42.506919: wfastcgi.py 3.0.0 initialized
+2020-11-16 08:12:41.805226: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2020-11-16 08:12:41.813161: Running on_exit tasks
+2020-11-16 10:13:12.482033: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-16 10:13:12.488459: wfastcgi.py 3.0.0 initialized
+2020-11-16 14:52:16.841491: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-16 14:52:16.847476: wfastcgi.py 3.0.0 initialized
+2020-11-16 15:11:17.549506: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-16 15:11:17.557439: wfastcgi.py 3.0.0 initialized
+2020-11-17 11:38:42.748075: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 11:38:42.758492: wfastcgi.py 3.0.0 initialized
+2020-11-17 12:57:39.471569: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 12:57:39.478512: wfastcgi.py 3.0.0 initialized
+2020-11-17 13:41:28.423891: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 13:41:28.430841: wfastcgi.py 3.0.0 initialized
+2020-11-17 14:00:30.469587: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 14:00:30.477524: wfastcgi.py 3.0.0 initialized
+2020-11-17 14:23:28.191620: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 14:23:28.199962: wfastcgi.py 3.0.0 initialized
+2020-11-17 14:55:07.933323: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-17 14:55:07.940301: wfastcgi.py 3.0.0 initialized
+2020-11-18 09:17:13.323961: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 09:17:13.331367: wfastcgi.py 3.0.0 initialized
+2020-11-18 10:01:04.684970: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 10:01:04.691247: wfastcgi.py 3.0.0 initialized
+2020-11-18 12:23:04.212190: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 12:23:04.219134: wfastcgi.py 3.0.0 initialized
+2020-11-18 12:31:30.832386: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 12:31:30.838834: wfastcgi.py 3.0.0 initialized
+2020-11-18 12:50:51.453318: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 12:50:51.459270: wfastcgi.py 3.0.0 initialized
+2020-11-18 12:56:08.394504: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 12:56:08.401944: wfastcgi.py 3.0.0 initialized
+2020-11-18 13:39:51.377647: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 13:39:51.384975: wfastcgi.py 3.0.0 initialized
+2020-11-18 14:05:59.567807: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 14:05:59.574255: wfastcgi.py 3.0.0 initialized
+2020-11-18 14:12:08.109766: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 14:12:08.116213: wfastcgi.py 3.0.0 initialized
+2020-11-18 14:35:16.327778: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 14:35:16.334260: wfastcgi.py 3.0.0 initialized
+2020-11-18 14:47:33.118189: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2020-11-18 14:47:33.125132: Running on_exit tasks
+2020-11-18 14:47:44.283669: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 14:47:44.292597: wfastcgi.py 3.0.0 initialized
+2020-11-18 15:00:10.990042: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2020-11-18 15:00:10.996525: Running on_exit tasks
+2020-11-18 15:00:18.378352: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 15:00:18.384801: wfastcgi.py 3.0.0 initialized
+2020-11-18 15:01:05.684652: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2020-11-18 15:01:05.690633: Running on_exit tasks
+2020-11-18 15:01:25.199563: wfastcgi.py will restart when files in C:\inetpub\wwwroot\REST_API\ are changed: .*((\.py)|(\.config))$
+2020-11-18 15:01:25.205017: wfastcgi.py 3.0.0 initialized
